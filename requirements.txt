@@ -2,3 +2,4 @@ numpy==1.26.4
 scipy==1.9.2
 pandas==2.2.3
 streamlit==1.44.1
+click==8.1.3
